@@ -3,6 +3,7 @@
 from functions import greet_programmer, greet, greet_with_default, \
                         add, halve
 
+import pytest
 import io
 import sys
 
